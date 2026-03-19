@@ -2297,6 +2297,14 @@ footer.style-2 .footer-top .footer-item .footer-inner .footer-content .title,
 .course-showing-part .course-showing-part-left p {
   margin-bottom: 0px;
 }
+.category-section.style-4
+  .section-wrapper
+  .category-item
+  .category-inner
+  .category-content
+  h6 {
+    color: #fff !important;
+  }
 .blog-single .section-wrapper .post-item .post-inner .post-content h2,
 .navigations-part .left .next,
 .navigations-part .left .prev,
