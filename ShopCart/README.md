@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 # 🛒 ShopCart E-commerce
 
 A modern e-commerce web application built with **React + Vite**, designed to provide a seamless shopping experience with product browsing, cart management, and secure checkout.
@@ -55,12 +60,12 @@ cd shopcart-ecommerce
 npm install
 npm run dev
 npm run build
-
+```
 ---
 
 ## 📂 Project Structure
 
-SHOPCART-ECOMMERCE/
+```SHOPCART-ECOMMERCE/
 ├── .firebase/             # Firebase configuration and deployment files
 ├── dist/                  # Production build output
 ├── node_modules/          # Installed dependencies
@@ -88,7 +93,7 @@ SHOPCART-ECOMMERCE/
 ├── index.html             # Main HTML template
 ├── package-lock.json      # Dependency lock file
 └── README.md              # Project documentation
-
+```
 ---
 
 ## 🖼 Screenshots
